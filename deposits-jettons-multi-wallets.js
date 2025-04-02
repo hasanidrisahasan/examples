@@ -1,4 +1,4 @@
-/*
+deposits-jettons-multi-wallets.js/*
 Here we will look at how to accept Jettons deposits. Each user will have their own deposit address.
 
 1. You once generated a key pair and get corresponding address of your HOT wallet as described in the `common.js`.
